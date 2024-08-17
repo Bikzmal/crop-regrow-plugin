@@ -1,0 +1,6 @@
+name: Crop_Regrow_Plugin
+version: '${project.version}'
+main: net.ympl.CropRegrowPlugin
+api-version: '1.20'
+authors: [ ympl ]
+description: Makes your crops grow back!
